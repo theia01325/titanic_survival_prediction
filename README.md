@@ -17,5 +17,12 @@ The dataset comes from the [Kaggle Titanic competition](https://www.kaggle.com/c
 
 ---
 
-## Project Structure
+## Project Workflow
+
+- **Data Preprocessing:** Handled missing values using statistical imputation, encoded categorical features with one-hot and label encoding, normalized numerical data, and engineered new features from raw data, including family size and title extraction.
+- **Model Implementation:** Implemented multiple machine learning algorithms, including Logistic Regression and Random Forest to compare prediction performance and identify the most effective model.  
+- **Hyperparameter Tuning:** Enhance model accuracy and prevent overfitting.  
+- **Model Evaluation:** Evaluated models using various metrics, including accuracy and recall to provide a comprehensive assessment of performance.  
+
+
 
