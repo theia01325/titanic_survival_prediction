@@ -1,10 +1,11 @@
 # Titanic Survival Prediction
 
-This is a simple machine learning project predicting passenger survival on the Titanic using Python and scikit-learn.
+This is a class project of team 6 for the course "Introduction to Data Science" at Ho Chi Minh University of Science (HCMUS), predicting passenger survival on the Titanic.
+
 
 ## Dataset
 
-The dataset comes from the [Kaggle Titanic competition](https://www.kaggle.com/c/titanic/data), containing passenger information such as:
+The dataset comes from the [Kaggle Titanic competition](https://www.kaggle.com/c/titanic/data), and this project only uses the training set, containing passenger information such as:
 
 - `Pclass` – Passenger class
 - `Sex` – Gender
