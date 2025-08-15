@@ -10,12 +10,7 @@ Original file is located at
 **NHÓM 6**
 
 **THÀNH VIÊN:**
-- 1. Họ tên: Nguyễn Đỗ Khánh Ngọc - MSSV: 23280008
-- 2. Họ tên: Thái Ngọc Thanh Mai - MSSV: 23280018
-- 3. Họ tên: Đặng Trọng Bảo Thi - MSSV: 23280025
-- 4. Họ tên: Nguyễn Ngọc Minh - MSSV: 23280029
-- 5. Họ tên: Trịnh Quốc Thắng - MSSV: 23280009
-- 6. Họ tên: Nguyễn Trang Thanh Trúc - MSSV: 23280011
+
 
 # 🟢 1. Problem Definition (Xác định bài toán)
 
